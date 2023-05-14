@@ -6,13 +6,17 @@
         "price": 180,
         "img": [
             "/nike/zf5/1.jpeg",
-            "/nike/zf5/2.jpeg",
+            "/nike/zf5/6.jpeg",
             "/nike/zf5/3.jpeg",
             "/nike/zf5/4.jpeg",
-            "/nike/zf5/5.jpeg",
-            "/nike/zf5/6.jpeg",
-            "/nike/zf5/7.jpeg",
-            "/nike/zf5/8.jpeg"
+            "/nike/zf5/5.jpeg"
+        ],
+        "sizes": [
+            37,
+            38,
+            39,
+            40,
+            41
         ]
     },
     {
@@ -22,6 +26,13 @@
         "price": 150,
         "img": [
             "/nike/vpf/1.jpeg"
+        ],
+        "sizes": [
+            37,
+            38,
+            39,
+            40,
+            41
         ]
     }
 ]
